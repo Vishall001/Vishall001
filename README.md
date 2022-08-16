@@ -1,4 +1,4 @@
-
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Vishall001.Vishall001">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -6,7 +6,7 @@
   </a>
 </h1>
 <br>
-### 💻 What do i do?
+### 💻 Introduction ?
 <br>
 <p align="center">
   Hi, I'm Vishal Mandloi, Web Developer/Coder 🥷,  Learner 👨‍💻 &  gamer 🦸‍♂️ from India 🇮🇳
@@ -22,11 +22,11 @@
 
 ### 👉🏼 More about me?
 
-<h1>I'm a multipotentialite who enjoys binge watching.</h1>
+<h1>I'm a multitasker who enjoys challenges.</h1>
 
-## 🔗 Links
+<!-- ## 🔗 Links
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://krishna-keshri.vercel.app/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://krishna-keshri.vercel.app/) -->
 
 <h2 align="left">🛠 Languages and Tools:</h2>
 <p align="center">
@@ -69,3 +69,8 @@
   <a align="right" href="https://github.com/Vishall001/Overstock-Clone" title="Data Structures"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Vishall001&repo=Overstock-Clone&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="left" href="https://github.com/Vishall001/Farfetch-Clone" title="Chat & Fresh"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Vishall001&repo=Farfetch-Clone&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
+<br><br><br><br><br><br>
+
+<h4 align="center">
+  <a href="https://github.com/Vishall001?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
