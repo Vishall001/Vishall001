@@ -1,19 +1,21 @@
-# Hi There! <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30px">
 
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Vishal+Mandloi!;&center=true&size=30">
+  </a>
+</h1>
+<br>
 I am Vishal Mandloi from Dewas, M.P.. Skilled in Full Stack Development, Javascript and its frameworks.
 
 ### 💻 What do i do?
-- A Full Stack Web Developer, equipped with a diverse and promising skill-set.
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vishall001&label=Profile%20views&color=0e75b6&style=flat" alt="Vishal" /> </p>
-
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
-
-- 💬 Ask me about **React/HTML/CSS/JAVASCRIPT**
-
-- ⚡ Fun fact **I ❤️ Gaming**
-
-<h2 align="left">☕ Let's Connect</h2>
+<br>
+<p align="center">
+  Hi, I'm Vishal Mandloi, Web Developer/Coder 🥷,  Learner 👨‍💻 &  gamer 🦸‍♂️ from India 🇮🇳
+  <br>
+  💻 I love to learn new technologies and frameworks.
+  <br>
+</p>
 <p align="center">
 
 <a href="https://www.linkedin.com/in/vishal-mandloii/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishna-kumar-keshri" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
@@ -40,26 +42,28 @@ I am Vishal Mandloi from Dewas, M.P.. Skilled in Full Stack Development, Javascr
   <!-- <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> -->
   <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
   <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> </p>
-
-### ⚙️ &nbsp;GitHub Analytics
-
- <div >
-<p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Vishall001&show_icons=true&locale=en&layout=compact&theme=radical" alt="Vishal" width="380" /></p>
-<p>
-  <img align="right" width="380" src="http://github-readme-streak-stats.herokuapp.com?user=Vishall001&theme=prussian&hide_border=true" />
-</p>
-
-
-
- </div>
- 
-
-<br/><br/><br/><br/>
-
+  <hr>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Vishall001&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Vishall001&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishall001&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br>
+  <br>
+  <br>
 <br/><br/><br/><br/>
 <a href="https://github.com/Vishall001/github-readme-activity-graph"><img alt="Vishal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Vishall001&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-
 <br/><br/>
-
 <h1></h1>
