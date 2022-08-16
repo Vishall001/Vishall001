@@ -6,8 +6,6 @@
   </a>
 </h1>
 <br>
-I am Vishal Mandloi from Dewas, M.P.. Skilled in Full Stack Development, Javascript and its frameworks.
-
 ### 💻 What do i do?
 <br>
 <p align="center">
@@ -18,7 +16,7 @@ I am Vishal Mandloi from Dewas, M.P.. Skilled in Full Stack Development, Javascr
 </p>
 <p align="center">
 
-<a href="https://www.linkedin.com/in/vishal-mandloii/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishna-kumar-keshri" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://www.linkedin.com/in/vishal-mandloii/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishna-kumar-keshri" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 
 </p>
 
@@ -63,7 +61,11 @@ I am Vishal Mandloi from Dewas, M.P.. Skilled in Full Stack Development, Javascr
   <br>
   <br>
   <br>
-<br/><br/><br/><br/>
 <a href="https://github.com/Vishall001/github-readme-activity-graph"><img alt="Vishal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Vishall001&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/><br/>
-<h1></h1>
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="right" href="https://github.com/Vishall001/Overstock-Clone" title="Data Structures"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Vishall001&repo=Overstock-Clone&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Vishall001/Farfetch-Clone" title="Chat & Fresh"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Vishall001&repo=Farfetch-Clone&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
