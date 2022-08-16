@@ -45,12 +45,14 @@ I am Vishal Mandloi from Dewas, M.P.. Skilled in Full Stack Development, Javascr
 
  <div >
 <p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Vishall001&show_icons=true&locale=en&layout=compact&theme=radical" alt="Vishal" width="380" /></p>
-
-<p>&nbsp;<img align="right"  src="https://github-readme-stats.vercel.app/api?username=Vishall001&show_icons=true&locale=en&theme=tokyonight" alt="Vishal" width="380" />
-
+<p>
+  <img align="right" width="380" src="http://github-readme-streak-stats.herokuapp.com?user=Vishall001&theme=prussian&hide_border=true" />
 </p>
- <img align="left"  width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=Vishall001&theme=prussian&hide_border=true" alt="Vishal />
-</div>
+
+
+
+ </div>
+ 
 
 <br/><br/><br/><br/>
 
