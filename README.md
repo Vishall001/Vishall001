@@ -14,6 +14,10 @@
   <br>
   💻 I love to learn new technologies and frameworks.
   <br>
+  🌱 I’m currently learning **Data Structures and Algorithms.**
+   <br>
+  💬 Ask me about **React/HTML/CSS/JAVASCRIPT**
+  <br>
 </p>
 <p align="center">
 <hr>
