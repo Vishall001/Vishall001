@@ -6,6 +6,7 @@
   </a>
 </h1>
 <br>
+<hr>
 ### 💻 Introduction ?
 <br>
 <p align="center">
@@ -15,7 +16,7 @@
   <br>
 </p>
 <p align="center">
-
+<hr>
 <a href="https://www.linkedin.com/in/vishal-mandloii/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishna-kumar-keshri" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 
 </p>
@@ -27,8 +28,9 @@
 <!-- ## 🔗 Links
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://krishna-keshri.vercel.app/) -->
-
+<hr>
 <h2 align="left">🛠 Languages and Tools:</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vishall001&label=Profile%20views&color=0e75b6&style=flat" alt="Vishal Mandloi" /> </p>
 <p align="center">
    <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
@@ -61,8 +63,10 @@
   <br>
   <br>
   <br>
+  <hr>
 <a href="https://github.com/Vishall001/github-readme-activity-graph"><img alt="Vishal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Vishall001&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/><br/>
+<hr>
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
@@ -74,3 +78,5 @@
 <h4 align="center">
   <a href="https://github.com/Vishall001?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
+<br>
+<hr>
