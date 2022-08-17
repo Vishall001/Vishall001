@@ -29,9 +29,9 @@
 
 <h1>I'm a multitasker who enjoys challenges.</h1>
 
-<!-- ## 🔗 Links
+## 🔗 Links
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://krishna-keshri.vercel.app/) -->
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://vishall001.github.io/vishal-mandloi/)
 <hr>
 <h2 align="left">🛠 Languages and Tools:</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vishall001&label=Profile%20views&color=0e75b6&style=flat" alt="Vishal Mandloi" /> </p>
