@@ -9,9 +9,10 @@
 <hr>
 ### 💻 Introduction ?
 <br>
+<div align="center">
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Vishal Mandloi | 💻 Full Stack Developer | 🛸 India , M.P. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+</div>
 <p align="center">
-  Hi, I'm Vishal Mandloi, Web Developer/Coder 🥷,  Learner 👨‍💻 &  gamer 🦸‍♂️ from India 🇮🇳
-  <br>
   💻 I love to learn new technologies and frameworks.
   <br>
   🌱 I’m currently learning **Data Structures and Algorithms.**
@@ -90,4 +91,8 @@
 
 <!-- refer this: https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 -->
 ![Vishall001 snake gif](https://github.com/Vishall001/Vishall001/blob/output/github-contribution-grid-snake.svg)   
-  
+<br>
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+<p align="center">
+ <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
