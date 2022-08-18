@@ -13,11 +13,17 @@
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Vishal Mandloi | 💻 Full Stack Developer | 🛸 India , M.P. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 <p align="center">
+  🙎 An ambitious software engineer
+   <br>
   💻 I love to learn new technologies and frameworks.
   <br>
-  🌱 I’m currently learning **Data Structures and Algorithms.**
+  🌱 I’m currently learning **Data Structures and Algorithms. And React**
    <br>
-  💬 Ask me about **React/HTML/CSS/JAVASCRIPT**
+  🛸 Capable to work in a team or individual
+   <br>
+   ⚡ My field of interest is building  full fletch and user-friendly application.
+   <br>
+  💬 Ask me about **React/HTML/CSS/JAVASCRIPT/REDUX**
   <br>
 </p>
 <p align="center">
