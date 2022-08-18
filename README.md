@@ -17,7 +17,7 @@
    <br>
   💻 I love to learn new technologies and frameworks.
   <br>
-  🌱 I’m currently learning **Data Structures and Algorithms. And React**
+  🌱 I’m currently learning **Data Structures and Algorithms and React from Masai**
    <br>
   🛸 Capable to work in a team or individual
    <br>
