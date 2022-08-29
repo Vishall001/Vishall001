@@ -80,7 +80,7 @@
  <br><br><br><br><br><br>
   <a align="right" href="https://github.com/Vishall001/booking" title="Booking.com"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Vishall001&repo=booking&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-<br><br><br><br><br><br>
+<!-- <br><br><br><br><br><br> -->
 <h4 align="center">
   <a href="https://github.com/Vishall001?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
