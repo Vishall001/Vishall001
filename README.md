@@ -23,9 +23,9 @@
    <br>
   🛸 Capable to work in a team or individual
    <br>
-   ⚡ My field of interest is building  full fletch and user-friendly application.
+   ⚡ My field of interest is building full fletch and user-friendly application.
    <br>
-  💬 Ask me about **React/HTML/CSS/JAVASCRIPT/REDUX**
+  💬 Ask me about **React/HTML/CSS/Javascript/Redux**
   <br>
 </p>
 <p align="center">
@@ -45,7 +45,7 @@
 <h2 align="left">🛠 Languages and Tools:</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vishall001&label=Profile%20views&color=0e75b6&style=flat" alt="Vishal Mandloi" /> </p >
 <p align="center">
-  <img  src="https://skillicons.dev/icons?i=react,nodejs,redux,github,ts,nextjs,bootstrap,js,html,css,vscode,vercel,netlify" alt="My Skills"/>
+  <img  src="https://skillicons.dev/icons?i=react,nodejs,mongodb,expressjs,redux,github,ts,nextjs,bootstrap,js,html,css,vscode,vercel,netlify" alt="My Skills"/>
 </p>
   <hr>
 <h2 align="center">⚡ Stats ⚡</h2>
