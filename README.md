@@ -45,7 +45,7 @@
 <h2 align="left">🛠 Languages and Tools:</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vishall001&label=Profile%20views&color=0e75b6&style=flat" alt="Vishal Mandloi" /> </p >
 <p align="center">
-  <img  src="https://skillicons.dev/icons?i=react,nodejs,mongodb,expressjs,redux,github,ts,nextjs,bootstrap,js,html,css,vscode,vercel,netlify" alt="My Skills"/>
+  <img  src="https://skillicons.dev/icons?i=react,js,nodejs,mongodb,expressjs,redux,ts,nextjs,bootstrap,html,css,github,vscode,vercel,netlify" alt="My Skills"/>
 </p>
   <hr>
 <h2 align="center">⚡ Stats ⚡</h2>
