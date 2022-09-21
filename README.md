@@ -13,19 +13,19 @@
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Vishal Mandloi | 💻 Full Stack Developer | 🛸 India , M.P. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
-<img src="https://wakatime.com/badge/user/1ff3f10c-1420-4570-94cf-cff207f1eb2c.svg"/>
+
 <p align="center">
-  🙎 An ambitious software engineer
+  🙎 An ambitious software engineer <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
    <br>
-  💻 I love to learn new technologies and frameworks.
+  💻 I love to learn new technologies and frameworks. <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
   <br>
-  🌱 I’m currently learning **Data Structures and Algorithms and React from Masai**
+  🌱 I’m currently learning **Data Structures and Algorithms and React from Masai** <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
    <br>
-  🛸 Capable to work in a team or individual
+  🛸 Capable to work in a team or individual <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
    <br>
-   ⚡ My field of interest is building full fletch and user-friendly application.
+   ⚡ My field of interest is building full fletch and user-friendly application. <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
    <br>
-  💬 Ask me about **React/HTML/CSS/Javascript/Redux**
+  💬 Ask me about **React/HTML/CSS/Javascript/Redux** <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
   <br>
 </p>
 <p align="center">
