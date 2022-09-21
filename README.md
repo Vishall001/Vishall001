@@ -44,7 +44,7 @@
 <img align="right" src="https://wakatime.com/badge/user/1ff3f10c-1420-4570-94cf-cff207f1eb2c.svg"/>
 
 <hr>
-<h2 align="left">🛠 Languages and Tools:</h2>
+<h2 align="left">🛠 Languages and Tools: <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 34px height=34px align="center"></h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vishall001&label=Profile%20views&color=0e75b6&style=flat" alt="Vishal Mandloi" /> </p >
 <p align="center">
   <img  src="https://skillicons.dev/icons?i=react,js,nodejs,mongodb,expressjs,redux,ts,nextjs,bootstrap,html,css,github,vscode,vercel,netlify" alt="My Skills"/>
