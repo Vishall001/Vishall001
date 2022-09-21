@@ -1,6 +1,6 @@
 ![MasterHead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Vishall001.Vishall001">
 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Vishall001.Vishall001">
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Vishal+Mandloi!;+Web+Developer!;&center=true&size=30">
@@ -41,6 +41,8 @@
 ## 🔗 Links
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://vishall001.github.io/vishal-mandloi/)
+<img align="right" src="https://wakatime.com/badge/user/1ff3f10c-1420-4570-94cf-cff207f1eb2c.svg"/>
+
 <hr>
 <h2 align="left">🛠 Languages and Tools:</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vishall001&label=Profile%20views&color=0e75b6&style=flat" alt="Vishal Mandloi" /> </p >
