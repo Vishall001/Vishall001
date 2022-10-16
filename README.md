@@ -9,7 +9,6 @@
 <hr>
 
 ### 💻 Introduction ?
-
 <br>
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Vishal Mandloi | 💻 Full Stack Developer | 🛸 India , M.P. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
@@ -42,6 +41,7 @@
 <hr>
 <a href="https://www.linkedin.com/in/vishal-mandloii/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vishal Mandloi" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 
+
 </p>
 
 ### 👉🏼 More about me?
@@ -57,7 +57,7 @@
 <h2 align="left">🛠 Languages and Tools: <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 34px height=34px align="center"></h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vishall001&label=Profile%20views&color=0e75b6&style=flat" alt="Vishal Mandloi" /> </p >
 <p align="center">
-  <img  src="https://skillicons.dev/icons?i=react,js,nodejs,mongodb,expressjs,redux,ts,nextjs,bootstrap,html,css,github,vscode,vercel,netlify" alt="My Skills"/>
+  <img  src="https://skillicons.dev/icons?i=react,js,nodejs,mongodb,expressjs,redux,nextjs,bootstrap,html,css,github,vscode,vercel,netlify,heroku" alt="My Skills"/>
 </p>
   <hr>
 <h2 align="center">⚡ Stats ⚡</h2>
@@ -87,11 +87,11 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Vishall001/Time-camp" title="Time Camp"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Vishall001&repo=Time-Camp&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="left" href="https://github.com/Vishall001/booking" title="Booking.com"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Vishall001&repo=booking&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Vishall001/Farfetch-Clone" title="Farfetch"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Vishall001&repo=Farfetch-Clone&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Vishall001/Overstock-Clone" title="Over stock"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Vishall001&repo=Overstock-Clone&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Vishall001/Time-camp" title="Time Camp"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Vishall001&repo=Time-camp&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Vishall001/Farfetch-Clone" title="Farfetch"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Vishall001&repo=Farfetch-Clone&theme=react&border_color=61dafb&border_radius=10"></a>
  <br><br><br><br><br><br>
+  <a align="right" href="https://github.com/Vishall001/booking" title="Booking.com"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Vishall001&repo=booking&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Vishall001/Overstock-Clone" title="Overstock"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Vishall001&repo=Overstock-Clone&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br><br><br><br><br><br>
 <h4 align="center">
@@ -100,13 +100,12 @@
 <br>
 <hr>
 
+
 ## Watch my contribution graph get eaten by the snake 🐍
 
 <!-- refer this: https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 -->
-
-![Vishall001 snake gif](https://github.com/Vishall001/Vishall001/blob/output/github-contribution-grid-snake.svg)  
+![Vishall001 snake gif](https://github.com/Vishall001/Vishall001/blob/output/github-contribution-grid-snake.svg)   
 <br>
-
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 <p align="center">
  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
