@@ -41,7 +41,6 @@
 <hr>
 <a href="https://www.linkedin.com/in/vishal-mandloii/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vishal Mandloi" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 
-
 </p>
 
 ### 👉🏼 More about me?
@@ -77,7 +76,6 @@
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishall001&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
-  <br>
   <br>
   <br>
   <hr>
