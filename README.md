@@ -9,6 +9,7 @@
 <hr>
 
 ### 💻 Introduction ?
+
 <br>
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Vishal Mandloi | 💻 Full Stack Developer | 🛸 India , M.P. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
@@ -86,10 +87,11 @@
 <br>
 <div width="100%" align="center">
   <a align="right" href="https://github.com/Vishall001/Time-camp" title="Time Camp"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Vishall001&repo=Time-camp&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="left" href="https://github.com/Vishall001/Farfetch-Clone" title="Farfetch"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Vishall001&repo=Farfetch-Clone&theme=react&border_color=61dafb&border_radius=10"></a>
+    <a align="left" href="https://github.com/Vishall001/Restaurent_App" title="Restaurent_App"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Vishall001&repo=Restaurent_App&theme=react&border_color=61dafb&border_radius=10"></a>
  <br><br><br><br><br><br>
-  <a align="right" href="https://github.com/Vishall001/booking" title="Booking.com"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Vishall001&repo=booking&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Vishall001/Overstock-Clone" title="Overstock"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Vishall001&repo=Overstock-Clone&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Vishall001/Farfetch-Clone" title="Farfetch"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Vishall001&repo=Farfetch-Clone&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Vishall001/booking" title="Booking.com"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Vishall001&repo=booking&theme=react&border_color=61dafb&border_radius=10"></a>
+
 </div>
 <br><br><br><br><br><br>
 <h4 align="center">
@@ -98,13 +100,14 @@
 <br>
 <hr>
 
-
 ## Watch my contribution graph get eaten by the snake 🐍
 
 <!-- refer this: https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 -->
-![Vishall001 snake gif](https://github.com/Vishall001/Vishall001/blob/output/github-contribution-grid-snake.svg)   
+
+![Vishall001 snake gif](https://github.com/Vishall001/Vishall001/blob/output/github-contribution-grid-snake.svg)  
 <br>
 <br>
+
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 <p align="center">
  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
