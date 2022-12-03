@@ -92,6 +92,8 @@
   <a align="left" href="https://github.com/Vishall001/Farfetch-Clone" title="Farfetch"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Vishall001&repo=Farfetch-Clone&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/Vishall001/booking" title="Booking.com"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Vishall001&repo=booking&theme=react&border_color=61dafb&border_radius=10"></a>
 
+ <br><br><br><br><br><br>
+  <a align="center" href="https://github.com/Vishall001/Flipkart_Clone" title="Flipkart_Clone"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Vishall001&repo=Flipkart_Clone&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br><br><br><br><br><br>
 <h4 align="center">
