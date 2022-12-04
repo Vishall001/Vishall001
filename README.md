@@ -80,8 +80,7 @@
   <br>
   <br>
   <hr>
-
-<a href="https://activity-graph.herokuapp.com/graph?username=Vishall001&theme=dracula"><img alt="Vishal's Activity Graph" src="https://github.com/Vishall001/github-readme-activity-graph" /></a>
+<!-- <a href="https://github.com/Vishall001/github-readme-activity-graph"><img alt="Vishal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Vishall001&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 <br/><br/>
 <hr>
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
@@ -89,27 +88,23 @@
 <div width="100%" align="center">
  <a align="left" href="https://github.com/Vishall001/Flipkart_Clone" title="Flipkart_Clone"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Vishall001&repo=Flipkart_Clone&theme=react&border_color=61dafb&border_radius=10"></a>
 
-  <a align="right" href="https://github.com/Vishall001/Time-camp" title="Time Camp"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Vishall001&repo=Time-camp&theme=react&border_color=61dafb&border_radius=10"></a>
-    <br><br><br><br><br><br>
+<a align="right" href="https://github.com/Vishall001/Time-camp" title="Time Camp"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Vishall001&repo=Time-camp&theme=react&border_color=61dafb&border_radius=10"></a>
+<br><br><br><br><br><br>
 
-   <a align="left" href="https://github.com/Vishall001/Restaurent_App" title="Restaurent_App"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Vishall001&repo=Restaurent_App&theme=react&border_color=61dafb&border_radius=10"></a>
+<a align="left" href="https://github.com/Vishall001/Restaurent_App" title="Restaurent_App"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Vishall001&repo=Restaurent_App&theme=react&border_color=61dafb&border_radius=10"></a>
 
-  <a align="right" href="https://github.com/Vishall001/Farfetch-Clone" title="Farfetch"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Vishall001&repo=Farfetch-Clone&theme=react&border_color=61dafb&border_radius=10"></a>
-  
-  <br><br><br><br><br><br>
+<a align="right" href="https://github.com/Vishall001/Farfetch-Clone" title="Farfetch"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Vishall001&repo=Farfetch-Clone&theme=react&border_color=61dafb&border_radius=10"></a>
 
-  <a align="center" href="https://github.com/Vishall001/booking" title="Booking.com"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Vishall001&repo=booking&theme=react&border_color=61dafb&border_radius=10"></a>
+<br><br><br><br><br><br>
 
- 
+<a align="center" href="https://github.com/Vishall001/booking" title="Booking.com"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Vishall001&repo=booking&theme=react&border_color=61dafb&border_radius=10"></a>
+
 </div>
 <h4 align="center">
   <a href="https://github.com/Vishall001?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 <br>
 <hr>
-
-
-  
 
 ## Watch my contribution graph get eaten by the snake 🐍
 
