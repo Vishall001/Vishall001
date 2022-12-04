@@ -80,7 +80,7 @@
   <br>
   <br>
   <hr>
-<a href="https://github.com/Vishall001/github-readme-activity-graph"><img alt="Vishal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Vishall001&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+  [![Vishal's github activity graph](https://activity-graph.herokuapp.com/graph?username=Vishall001&theme=dracula)](https://github.com/Vishall001/github-readme-activity-graph)
 <br/><br/>
 <hr>
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
@@ -106,6 +106,9 @@
 </h4>
 <br>
 <hr>
+
+
+  
 
 ## Watch my contribution graph get eaten by the snake 🐍
 
