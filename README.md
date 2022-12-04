@@ -80,7 +80,8 @@
   <br>
   <br>
   <hr>
-  [![Vishal's github activity graph](https://activity-graph.herokuapp.com/graph?username=Vishall001&theme=dracula)](https://github.com/Vishall001/github-readme-activity-graph)
+
+<a href="https://activity-graph.herokuapp.com/graph?username=Vishall001&theme=dracula"><img alt="Vishal's Activity Graph" src="https://github.com/Vishall001/github-readme-activity-graph" /></a>
 <br/><br/>
 <hr>
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
