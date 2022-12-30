@@ -72,16 +72,21 @@
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
-  <div align=center>
+  <div align=left>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishall001&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
+<div  align=right>
+
+ ![Leetcode Stats](https://leetcard.jacoblin.cool/vishalmandloi62)
+</div>
   </div>
   <br>
   <br>
   <hr>
 <!-- <a href="https://github.com/Vishall001/github-readme-activity-graph"><img alt="Vishal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Vishall001&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 <br/><br/>
+
 <hr>
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
@@ -118,3 +123,6 @@
 <p align="center">
  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
+
+
+ ![Leetcode Stats](https://leetcard.jacoblin.cool/vishalmandloi62)
