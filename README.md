@@ -93,18 +93,19 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
- <a align="left" href="https://github.com/Vishall001/Flipkart_Clone" title="Flipkart_Clone"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Vishall001&repo=Flipkart_Clone&theme=react&border_color=61dafb&border_radius=10"></a>
 
-<a align="right" href="https://github.com/Vishall001/Time-camp" title="Time Camp"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Vishall001&repo=Time-camp&theme=react&border_color=61dafb&border_radius=10"></a>
+<a align="left" href="https://github.com/Vishall001/Spotify_Clone" title="Spotify"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Vishall001&repo=Spotify_Clone&theme=react&border_color=61dafb&border_radius=10"></a>
+
+ <a align="right" href="https://github.com/Vishall001/Flipkart_Clone" title="Flipkart_Clone"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Vishall001&repo=Flipkart_Clone&theme=react&border_color=61dafb&border_radius=10"></a>
 <br><br><br><br><br><br>
 
-<a align="left" href="https://github.com/Vishall001/Restaurent_App" title="Restaurent_App"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Vishall001&repo=Restaurent_App&theme=react&border_color=61dafb&border_radius=10"></a>
+<a align="left" href="https://github.com/Vishall001/Time-camp" title="Time Camp"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Vishall001&repo=Time-camp&theme=react&border_color=61dafb&border_radius=10"></a>
 
-<a align="right" href="https://github.com/Vishall001/Farfetch-Clone" title="Farfetch"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Vishall001&repo=Farfetch-Clone&theme=react&border_color=61dafb&border_radius=10"></a>
+<a align="right" href="https://github.com/Vishall001/Restaurent_App" title="Restaurent_App"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Vishall001&repo=Restaurent_App&theme=react&border_color=61dafb&border_radius=10"></a>
 
 <br><br><br><br><br><br>
+<a align="center" href="https://github.com/Vishall001/Farfetch-Clone" title="Farfetch"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Vishall001&repo=Farfetch-Clone&theme=react&border_color=61dafb&border_radius=10"></a>
 
-<a align="center" href="https://github.com/Vishall001/booking" title="Booking.com"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Vishall001&repo=booking&theme=react&border_color=61dafb&border_radius=10"></a>
 
 </div>
 <h4 align="center">
@@ -126,4 +127,3 @@
  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/vishalmandloi62)
