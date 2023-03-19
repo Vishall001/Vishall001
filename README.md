@@ -108,11 +108,11 @@
 
 
 </div>
-<!-- <h4 align="center">
+<h4 align="center">
   <a href="https://github.com/Vishall001?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4> -->
+</h4> 
 <!-- <br> -->
-<!-- <hr> -->
+<!-- <hr>
 
 ## Watch my contribution graph get eaten by the snake 🐍
 
